@@ -6,3 +6,7 @@ _You can see all easter eggs in [@ayugram_easter](https://t.me/ayugram_easter)_
 
 # Requirements
 - AyuGram 20250612 and above (Based on ExteraGram 11.12.0 and above)
+
+# Available Languages
+🇬🇧 English
+🇷🇺 Русский
