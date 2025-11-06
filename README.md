@@ -1,3 +1,5 @@
+English | [Русский](/README-ru.md)
+
 # Description
 
 The ExteraGram plugin protects against opening AyuGram Easter eggs _(tg://ayu/... train, xiaomi, relax, augh, pipe, saul, komaru, lobster)_
